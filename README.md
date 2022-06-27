@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mozammalhossainsobug
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Linux kernel programmin
+- 🌱 I’m currently learning Linux kernel programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 r
 
